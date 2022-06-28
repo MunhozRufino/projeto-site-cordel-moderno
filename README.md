@@ -5,7 +5,7 @@ Projeto proposto e criado no curso de HTML5 e CSS3 do Professor Gustavo Guanabar
 Este foi o meu segundo projeto criado somente com HTML5 e CSS3, este desafio explorou novas configurações em CSS3 tais como, imagens de fundo, efeito parallax, adaptação de fontes de acordo com o tamanho da tela.
 Este projeto pude colocar em prática todo conteudo apresentado no curso até este momento, deixando o site responsivo conforme a proposta.
 
-<a href="#" target="_blank" >Clique aqui para ter acesso ao site!</a>
+<a href="https://munhozrufino.github.io/projeto-site-cordel-moderno/" target="_blank" >Clique aqui para ter acesso ao site!</a>
 
 Deixo meus créditos ao cirador deste belo cordel<a href="https://www.recantodasletras.com.br/poesias/3186743" target="_blank" >Milton Duarte.</a>
 
